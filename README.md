@@ -23,9 +23,9 @@ that the alogirthm returned.
 
 * To get started, download the source code or clone the repository
 * The file to execute within the folders is AlgorithmVisualizer.py
-* Make the file AlgorithmVisualizer executable, make sure graphics.py is in the same folder, and then type
+* Make the file Visualizer.py executable, make sure graphics.py is in the same folder, and then type
 ```
-./bin/python AlgorithmVisualizer.py
+./bin/python Visualizer.py
 ```
 
 ## Help
